@@ -13,5 +13,5 @@ User Class – Deondra Ratliff
 Pet Class – Mi Meh
 Reminder Class – Maximillian Smith
 
-## Class Description:
+#### Class Description:
 The User class manages user information. The Pet class stores pet details. The Reminder class handles scheduled pet care tasks such as feeding and medication.
