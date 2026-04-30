@@ -14,4 +14,13 @@ Our project is a Pet Care Reminder application. It will help pet owners manage r
 - Reminder Class – Maximillian Smith
 
 #### Class Description:
-The User class manages user information. The Pet class stores pet details. The Reminder class handles scheduled pet care tasks such as feeding and medication.
+##### User Class
+Manages user information such as name, email, and phone number.
+
+##### Pet Class
+
+Stores and manages pet details, including name, type, and age.
+
+##### Reminder Class
+
+Handles pet care reminders such as feeding schedules, medication, and task notes.
