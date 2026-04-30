@@ -22,5 +22,4 @@ Manages user information such as name, email, and phone number.
 Stores and manages pet details, including name, type, and age.
 
 #### Reminder Class
-
 Handles pet care reminders such as feeding schedules, medication, and task notes.
