@@ -13,7 +13,7 @@ Our project is a Pet Care Reminder application. It will help pet owners manage r
 - Pet Class – Mi Meh
 - Reminder Class – Maximillian Smith
 
-#### Class Description:
+### Class Description:
 ##### User Class
 Manages user information such as name, email, and phone number.
 
