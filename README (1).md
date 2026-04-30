@@ -9,9 +9,9 @@ Our project is a Pet Care Reminder application. It will help pet owners manage r
 - Maximillian Smith
 
 ## Class Distribution
-User Class – Deondra Ratliff
-Pet Class – Mi Meh
-Reminder Class – Maximillian Smith
+- User Class – Deondra Ratliff
+- Pet Class – Mi Meh
+- Reminder Class – Maximillian Smith
 
 #### Class Description:
 The User class manages user information. The Pet class stores pet details. The Reminder class handles scheduled pet care tasks such as feeding and medication.
